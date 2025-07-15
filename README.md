@@ -1,0 +1,1 @@
+# trayectoria-parabolica-de-un-cohete-basico
